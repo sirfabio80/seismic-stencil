@@ -1,0 +1,1 @@
+import './pisn-scale-button';
